@@ -1,3 +1,3 @@
-* Fehinti's World
+# Fehinti's World
 
 > A peek in who I am
